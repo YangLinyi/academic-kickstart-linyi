@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Linyi Yang
 
 # Username (this should match the folder name)
 authors:
@@ -10,50 +10,44 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Insight Centre, University College Dublin
+  url: "https://www.insight-centre.org/users/linyi-yang"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include NLP Problem Solving, Financial Forecasting and Multimodal.
 
 interests:
 - Artificial Intelligence
+- Financial forecasting
 - Computational Linguistics
-- Information Retrieval
 
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: University College Dublin
+    year: 2017-
+  - course: MSc in Artificial Intelligence
+    institution: University College Dublin
+    year: 2016-2017
+  - course: BSc in Computer Science
+    institution: Harbin Engineering University
+    year: 2012-2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=go3sFxcAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/YangLinyi/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,15 +55,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "yanglinyiucd@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Linyi Yang is a PhD of artificial intelligence at the Insight Centre, University College Dublin. His research interests include Natural Language Processing, Financial Index Forecasting, and Multimodal. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
