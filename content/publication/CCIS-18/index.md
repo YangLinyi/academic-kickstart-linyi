@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Explainable Text-Driven Neural Network for Stock Prediction (Best Paper Nominated -3/200+)"
+title: "Explainable Text-Driven Neural Network for Stock Prediction (*Best Paper Nominated)"
 authors: ["Linyi Yang", "Zheng Zhang", "Su Xiong", "Lirui Wei", "James Ng", "Lina Xu", "Ruihai Dong"]
 date: 2018-07-01T00:00:00+08:00
 #doi: "10.1145/3366423.3380128"
