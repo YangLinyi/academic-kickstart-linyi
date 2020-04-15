@@ -18,7 +18,7 @@ subtitle = ""
   count = 0
   
   # Choose how many pages you would like to offset by
-  offset = 10
+  offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 4
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+Quickly discover relevant papers by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
