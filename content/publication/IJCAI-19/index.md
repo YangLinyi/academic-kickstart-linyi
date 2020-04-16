@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Leveraging BERT to Improve the FEARS Index for Stock Forecasting"
-authors: ["Linyi Yang", "James Ng", "Yang Xu", Ruihai Dong"]
+authors: ["Linyi Yang", "James Ng", "Yang Xu", "Ruihai Dong"]
 date: 2019-08-20T00:00:00+08:00
 #doi: "10.1145/3366423.3380128"
 
