@@ -53,7 +53,7 @@ social:
 
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/linyi-cv-research.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "yanglinyiucd@gmail.com"
