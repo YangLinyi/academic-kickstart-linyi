@@ -1,17 +1,13 @@
 ---
-
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction
 event: The Web Conference'20
 event_url: https://www2020.thewebconf.org/
 
-location: Taipei 101
-address:
-  city: Taipei
+location: Taipei 
 
-
-summary: WWW-20 Long Paper Talk
-
+summary: "WWW-20 Long Paper Talk"
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-04-23T13:00:00Z"
@@ -19,6 +15,10 @@ all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-04-16T00:00:00Z"
+
+# Schedule page publish date (NOT publication's date).
+publishDate: 2019-08-20T00:00:00+08:00
+
 
 authors: [Linyi Yang]
 tags: [conference]
@@ -40,21 +40,5 @@ url_pdf: ""
 url_slides: "files/Linyi_WWW20_Draft_Presentation.pdf"
 url_video: ""
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:[]
-
-# Enable math on this page?
-# math: true
 ---
 
