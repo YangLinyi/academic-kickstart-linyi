@@ -21,7 +21,7 @@ publishDate: "2019-08-20T00:00:00+08:00"
 
 
 authors: [Linyi Yang]
-tags: [conference]
+tags: [Hierarchical Transformer]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -34,7 +34,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/linyi_yang
 url_code: ""
 url_pdf: ""
 url_slides: "files/Linyi_WWW20_Draft_Presentation.pdf"
