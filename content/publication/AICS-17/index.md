@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In Proceedings of the 25th Irish Conference on Artificial Intelligence and Cognitive Science, Dublin, Ireland, December 7 - 8, 2017."
-publication_short: "In *AICS-18*"
+publication_short: "In *AICS-17*"
 
 abstract: ""
 
