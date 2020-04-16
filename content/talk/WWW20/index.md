@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction
-event: The Web Conference'20
+title: "HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction"
+event: "The Web Conference'20"
 event_url: https://www2020.thewebconf.org/
 
-location: Taipei 
+location: "Taipei" 
 
 summary: "WWW-20 Long Paper Talk"
 # Talk start and end times.
@@ -17,7 +17,7 @@ all_day: false
 publishDate: "2020-04-16T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-08-20T00:00:00+08:00
+publishDate: "2019-08-20T00:00:00+08:00"
 
 
 authors: [Linyi Yang]
