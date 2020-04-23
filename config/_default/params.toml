@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "Ocean"
+theme = "Minimal"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = "Insight Centre"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Linyi Yang; Insight Centre"
 
 ############################
 ## Site Features
