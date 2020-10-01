@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 
 +++
-* I am happy to serve as PC Member/Reviewer at: CIKM-20; COLING-20
+* I am happy to serve as a PC Member/Reviewer at: CIKM-20; COLING-20
 
 * We start working on tracking the progress in the topic of FinNLP. Feel free to add any relavant items to [Project Link](https://github.com/YangLinyi/FinNLP-Progress)
 * 2020-Oct: One first-author long paper has been accepted by [COLING 2020](https://coling2020.org/).
