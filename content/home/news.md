@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 
 +++
-* Professional Service: PC Member/Reviewer: CIKM-20; COLING-20
+* I am happy to serve as PC Member/Reviewer at: CIKM-20; COLING-20
 
 * 2020-Oct: One first-author long paper has been accepted by [COLING 2020](https://coling2020.org/).
 
