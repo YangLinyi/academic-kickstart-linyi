@@ -52,6 +52,8 @@ subtitle = ""
 +++
 * I am happy to serve as PC Member/Reviewer at: CIKM-20; COLING-20
 
+* We start working on tracking the progress in the topic of FinNLP. Feel free to add any relavant items to:https://github.com/YangLinyi/FinNLP-Progress
+
 * 2020-Oct: One first-author long paper has been accepted by [COLING 2020](https://coling2020.org/).
 (core: A, CCF: B)
 * 2020-Sep: One co-first resource paper has been accepted by [CIKM 2020](https://www.cikm2020.org/accepted-papers/accepted-resource-track-papers/)
