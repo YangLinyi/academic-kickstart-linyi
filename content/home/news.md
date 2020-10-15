@@ -55,11 +55,11 @@ subtitle = ""
 * We start working on tracking the progress in the topic of FinNLP. Feel free to add any relevant items to [Project Link](https://github.com/YangLinyi/FinNLP-Progress)
 * 2020-Oct: One first-author long paper has been accepted by [COLING 2020](https://coling2020.org/).
 (core: A, CCF: B)
-* 2020-Sep: One co-first resource paper has been accepted by [CIKM 2020](https://www.cikm2020.org/accepted-papers/accepted-resource-track-papers/)
+* 2020-Sep: One co-first author resource paper has been accepted by [CIKM 2020](https://www.cikm2020.org/accepted-papers/accepted-resource-track-papers/)
 (core: A, CCF: B)
 * 2019-Dec: One first-author long paper has been accepted by [WWW 2020](https://www2020.citi.sinica.edu.tw/schedule/).
 (core: A*, CCF: A)
-* 2019-Aug: One first-author long paper has been accepted by [FinNLP Workshop@ICJAI-19](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp/).
+* 2019-Aug: One first-author long paper has been accepted by [FinNLP Workshop@IJCAI-19](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp/).
 
 * 2018-Nov: Our paper won the best paper nomitation at [CCIS 2018](http://ccis2018.csp.escience.cn/dct/page/1).
 
