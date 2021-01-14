@@ -37,8 +37,8 @@ featured: true
 
 url_pdf: "https://researchrepository.ucd.ie/rest/bitstreams/42205/retrieve"
 #url_preprint: "https://www.researchgate.net/profile/Linyi_Yang2/publication/334655405_Leveraging_BERT_to_Improve_the_FEARS_Index_for_Stock_Forecasting/links/5d38893992851cd04683b4a9/Leveraging-BERT-to-Improve-the-FEARS-Index-for-Stock-Forecasting.pdf"
-#url_code: "https://github.com/YangLinyi/Leveraging-BERT-to-Improve-the-FEARS-Index-for-Stock-Forecasting"
-#url_dataset: "https://github.com/YangLinyi/Leveraging-BERT-to-Improve-the-FEARS-Index-for-Stock-Forecasting"
+url_code: "https://github.com/YangLinyi/Distant-Supervision"
+url_dataset: "https://github.com/YangLinyi/Distant-Supervision"
 url_poster:
 url_project:
 url_slides:
