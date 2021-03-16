@@ -42,7 +42,7 @@ url_dataset: "https://github.com/YangLinyi/Distant-Supervision"
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: "files/MSc_Thesis_Linyi Yang.pdf"
 url_video:
 
 # Featured image
