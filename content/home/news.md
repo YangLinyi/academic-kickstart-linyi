@@ -50,18 +50,16 @@ subtitle = ""
  css_class = ""
 
 +++
-* Professional Service: CIKM-20 (PC Member/Reviewer); COLING-20 (PC Member/Reviewer); IEEE-Access (Reviewer)
-
+* PC Member/Reviewer: CIKM-20； COLING-20; ACL-21; SIGIR-21; IEEE-Access
 * We start working on tracking the progress in the topic of FinNLP. Feel free to add any relevant items to [Project Link](https://github.com/YangLinyi/FinNLP-Progress)
-* 2020-Oct: One first-author long paper has been accepted by [COLING 2020](https://coling2020.org/).
+* 2020-Oct: One first-author long paper has been accepted by [COLING 2020](https://coling2020.org/) (Oral; top 5% submissions).
 (core: A, CCF: B)
-* 2020-Sep: One co-first author resource paper has been accepted by [CIKM 2020](https://www.cikm2020.org/accepted-papers/accepted-resource-track-papers/)
+* 2020-Sep: One co-first author resource paper has been accepted by [CIKM 2020](https://www.cikm2020.org/accepted-papers/accepted-resource-track-papers/) (Oral)
 (core: A, CCF: B)
-* 2019-Dec: One first-author long paper has been accepted by [WWW 2020](https://www2020.citi.sinica.edu.tw/schedule/).
+* 2019-Dec: One first-author long paper has been accepted by [WWW 2020](https://www2020.citi.sinica.edu.tw/schedule/). (Oral; 19% acceptance rate)
 (core: A*, CCF: A)
-* 2019-Aug: One first-author long paper has been accepted by [FinNLP Workshop@IJCAI-19](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp/).
-
-* 2018-Nov: Our paper won the best paper nomitation at [CCIS 2018](http://ccis2018.csp.escience.cn/dct/page/1).
+* 2019-Aug: One first-author long paper has been accepted by [FinNLP Workshop@IJCAI-19](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp/). (Oral)
+* 2018-Nov: Our paper won the best paper nomitation at [CCIS 2018](http://ccis2018.csp.escience.cn/dct/page/1). (Oral; top 3 submissions)
 
 
 
