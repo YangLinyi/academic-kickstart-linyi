@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 
 +++
-* PC Member/Reviewer: CIKM-20； COLING-20; ACL-21; SIGIR-21; IEEE-Access
+* PC Member/Reviewer: CIKM-20; COLING-20; ACL-21; SIGIR-21; IEEE-Access
 * We start working on tracking the progress in the topic of FinNLP. Feel free to add any relevant items to [Project Link](https://github.com/YangLinyi/FinNLP-Progress)
 * 2020-Oct: One first-author long paper has been accepted by [COLING 2020](https://coling2020.org/) (Oral; top 5% submissions).
 (core: A, CCF: B)
