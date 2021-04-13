@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include NLP Problem Solving, Financial Forecasting and Multimodal.
 
 interests:
-- Artificial Intelligence
-- Financial Forecasting
 - Natural Language Processing
+- Financial Forecasting
+- Casual Inference
+- Explainable AI (XAI)
 
 education:
   courses:
