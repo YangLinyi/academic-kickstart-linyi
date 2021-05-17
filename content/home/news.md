@@ -52,6 +52,8 @@ subtitle = ""
 +++
 * PC Member/Reviewer: CIKM-20; COLING-20; ACL-21; SIGIR-21; IEEE-Access
 * We start working on tracking the progress in the topic of FinNLP. Feel free to add any relevant items to [Project Link](https://github.com/YangLinyi/FinNLP-Progress)
+* 2021-May: One first-author long paper has been accepted by [ACL 2021](https://2021.aclweb.org/) (Main Track, 21% acceptance rate).
+(core: A*, CCF: A)
 * 2020-Oct: One first-author long paper has been accepted by [COLING 2020](https://coling2020.org/) (Oral; top 5% submissions).
 (core: A, CCF: B)
 * 2020-Sep: One co-first author resource paper has been accepted by [CIKM 2020](https://www.cikm2020.org/accepted-papers/accepted-resource-track-papers/) (Oral)
