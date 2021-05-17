@@ -56,13 +56,13 @@ subtitle = ""
 (core: A*, CCF: A)
 * 2020-Oct: One first-author long paper has been accepted by [COLING 2020](https://coling2020.org/) (Oral; top 5% submissions).
 (core: A, CCF: B)
-* 2020-Sep: One co-first author resource paper has been accepted by [CIKM 2020](https://www.cikm2020.org/accepted-papers/accepted-resource-track-papers/) (Oral)
+* 2020-Sep: One co-first author resource paper has been accepted by [CIKM 2020](https://www.cikm2020.org/accepted-papers/accepted-resource-track-papers/) (Oral; 20% acceptance rate).
 (core: A, CCF: B)
-* 2019-Dec: One first-author long paper has been accepted by [WWW 2020](https://www2020.citi.sinica.edu.tw/schedule/). (Oral; 19% acceptance rate)
+* 2019-Dec: One first-author long paper has been accepted by [WWW 2020](https://www2020.citi.sinica.edu.tw/schedule/) (Oral; 19% acceptance rate).
 (core: A*, CCF: A)
-* 2019-Aug: One first-author long paper has been accepted by [FinNLP Workshop@IJCAI-19](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp/). (Oral)
-* 2018-Nov: Our paper won the best paper nomitation at [CCIS 2018](http://ccis2018.csp.escience.cn/dct/page/1). (Oral; top 3 submissions)
-
+* 2019-Aug: One first-author long paper has been accepted by [FinNLP Workshop@IJCAI-19](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp/) (Oral).
+* 2018-Nov: Our paper won the best paper nomitation at [CCIS 2018](http://ccis2018.csp.escience.cn/dct/page/1) (Oral; top 3 submissions).
+* 2017-Dec: My first paper was published at [AICS 2017](http://aiai.ucd.ie/aics2017/index.html) (Oral).
 
 
 <!-- Welcome to the **Academic Kickstart** template!
