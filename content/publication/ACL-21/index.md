@@ -38,7 +38,7 @@ featured: true
 #   icon: twitter
 
 url_pdf: "https://aclanthology.org/2021.acl-long.26.pdf"
-url_preprint: "https://arxiv.org/abs/2106.15231"
+# url_preprint: "https://arxiv.org/abs/2106.15231"
 url_code: "https://github.com/lijiazheng99/Counterfactuals-for-Sentiment-Analysis"
 url_dataset: "https://github.com/lijiazheng99/Counterfactuals-for-Sentiment-Analysis"
 url_poster:
