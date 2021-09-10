@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Exploring the Efficacy of Automatically Generated Counterfactuals for Sentiment Analysis"
-authors: ["Linyi Yang", "Jiazheng Li", "Ruihai Dong", "Pádraig Cunningham", "Barry Smyth", "Yue Zhang"]
-date: 2021-08-01T00:00:00+08:00
-doi: "arxiv-2106.15231"
+title: "MAEC: A Multimodal Aligned Earnings Conference Call Dataset for Financial Risk Prediction"
+authors: ["Linyi Yang*", "Jiazheng Li*", "Barry Smyth", "Ruihai Dong"]
+date: 2020-10-23T00:00:00+08:00
+doi: "10.1145/3366423.3380128"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-08-01T00:00:00+08:00
