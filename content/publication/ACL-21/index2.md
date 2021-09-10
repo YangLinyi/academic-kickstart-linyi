@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Generating Plausible Counterfactual Explanations for Deep Transformers in Financial Text Classification"
-authors: ["Linyi Yang", "Eoin Kenny", "James Ng", "Yi Yang", "Barry Smyth", "Ruihai Dong"]
-date: 2020-10-23T00:00:00+08:00
-doi: "10.1145/3366423.3380128"
+title: "Exploring the Efficacy of Automatically Generated Counterfactuals for Sentiment Analysis"
+authors: ["Linyi Yang", "Jiazheng Li", "Ruihai Dong", "Pádraig Cunningham", "Barry Smyth", "Yue Zhang"]
+date: 2021-08-01T00:00:00+08:00
+doi: "arxiv-2106.15231"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-23T00:00:00+08:00
+publishDate: 2021-08-01T00:00:00+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +22,7 @@ publication_short: "In *COLING 2020*"
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "This paper proposes a novel methodology for producing plausible counterfactual explanations, whilst exploring the regularization benefits of adversarial training on language models in the domain of FinTech. Exhaustive quantitative experiments demonstrate that not only does this approach improve the model accuracy when compared to the current state-of-the-art and human performance, but it also generates counterfactual explanations which are significantly more plausible based on human trials. "
+summary: "summary: "While state-of-the-art NLP models have been achieving the excellent performance of a wide range of tasks in recent years, important questions are being raised about their robustness and their underlying sensitivity to systematic biases that may exist in their training and test data. Such issues come to be manifest in performance problems when faced with out-of-distribution data in the field. Producing high-quality augmented data can be costly and time-consuming as it usually needs to involve human feedback and crowdsourcing efforts. In this work, we propose an alternative by describing and evaluating an approach to automatically generating counterfactual data for data augmentation and explanation. "
 
 tags: []
 categories: []
@@ -36,15 +36,15 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-#url_pdf: "https://www.aclweb.org/anthology/P19-1276"
-url_preprint: "https://arxiv.org/abs/2010.12512"
-url_code: "https://github.com/YangLinyi/Explainable-Financial-Text-Classification"
-url_dataset: "https://github.com/YangLinyi/Explainable-Financial-Text-Classification"
+url_pdf: "https://aclanthology.org/2021.acl-long.26.pdf"
+url_preprint: "https://arxiv.org/abs/2106.15231"
+url_code: "https://github.com/lijiazheng99/Counterfactuals-for-Sentiment-Analysis"
+url_dataset: "https://github.com/lijiazheng99/Counterfactuals-for-Sentiment-Analysis"
 url_poster:
 url_project:
-url_slides: 
+url_slides: "https://underline.io/lecture/25378-exploring-the-efficacy-of-automatically-generated-counterfactuals-for-sentiment-analysis"
 url_source:
-url_video:
+url_video:"https://underline.io/lecture/25378-exploring-the-efficacy-of-automatically-generated-counterfactuals-for-sentiment-analysis"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
