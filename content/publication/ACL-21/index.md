@@ -3,7 +3,7 @@
 
 title: "Exploring the Efficacy of Automatically Generated Counterfactuals for Sentiment Analysis"
 authors: ["Linyi Yang", "Jiazheng Li", "Ruihai Dong", "Pádraig Cunningham", "Barry Smyth", "Yue Zhang"]
-date: 2020-10-23T00:00:00+08:00
+date: 2021-08-01 T00:00:00+08:00
 doi: "10.1145/3366423.3380128"
 
 # Schedule page publish date (NOT publication's date).
