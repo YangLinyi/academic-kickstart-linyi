@@ -23,7 +23,7 @@ abstract: ""
 
 
 # Summary. An optional shortened abstract.
-summary: "While state-of-the-art NLP models have been achieving the excellent performance of a wide range of tasks in recent years, important questions are being raised about their robustness and their underlying sensitivity to systematic biases that may exist in their training and test data. In this work, we propose an alternative by describing and evaluating an approach to automatically generating counterfactual data for data augmentation and explanation. "
+summary: "While state-of-the-art NLP models have been achieving the excellent performance of a wide range of tasks in recent years. In this work, we propose an alternative by describing and evaluating an approach to automatically generating counterfactual data for data augmentation and explanation. "
 
 tags: []
 categories: []
