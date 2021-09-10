@@ -3,11 +3,11 @@
 
 title: "Exploring the Efficacy of Automatically Generated Counterfactuals for Sentiment Analysis"
 authors: ["Linyi Yang", "Jiazheng Li", "Ruihai Dong", "Pádraig Cunningham", "Barry Smyth", "Yue Zhang"]
-date: 2021-08-01 T00:00:00+08:00
-doi: "10.1145/3366423.3380128"
+date: 2021-08-01T00:00:00+08:00
+doi: "arxiv-2106.15231"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-08-01 T00:00:00+08:00
+publishDate: 2021-08-01T00:00:00+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -47,14 +47,6 @@ url_slides: "https://underline.io/lecture/25378-exploring-the-efficacy-of-automa
 url_source:
 url_video:"https://underline.io/lecture/25378-exploring-the-efficacy-of-automatically-generated-counterfactuals-for-sentiment-analysis"
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -69,4 +61,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
