@@ -40,12 +40,12 @@ featured: true
 url_pdf: "https://aclanthology.org/2021.acl-long.26.pdf"
 # url_preprint: "https://arxiv.org/abs/2106.15231"
 url_code: "https://github.com/lijiazheng99/Counterfactuals-for-Sentiment-Analysis"
-url_dataset: "https://github.com/lijiazheng99/Counterfactuals-for-Sentiment-Analysis"
+# url_dataset: "https://github.com/lijiazheng99/Counterfactuals-for-Sentiment-Analysis"
 url_poster:
 url_project:
-url_slides: "https://underline.io/lecture/25378-exploring-the-efficacy-of-automatically-generated-counterfactuals-for-sentiment-analysis"
+# url_slides: "https://underline.io/lecture/25378-exploring-the-efficacy-of-automatically-generated-counterfactuals-for-sentiment-analysis"
 url_source:
-url_video:"https://underline.io/lecture/25378-exploring-the-efficacy-of-automatically-generated-counterfactuals-for-sentiment-analysis"
+# url_video:"https://underline.io/lecture/25378-exploring-the-efficacy-of-automatically-generated-counterfactuals-for-sentiment-analysis"
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
