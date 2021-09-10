@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Exploring the Efficacy of Automatically Generated Counterfactuals for Sentiment Analysis"
-authors: ["Linyi Yang", "Jiazheng Li", "Ruihai Dong", "Pádraig Cunningham", "Barry Smyth", "Yue Zhang"]
+authors: ["Linyi Yang", "Jiazheng Li", "Ruihai Dong", "Padraig Cunningham", "Barry Smyth", "Yue Zhang"]
 date: 2021-08-01T00:00:00+08:00
 doi: "arxiv-2106.15231"
 
