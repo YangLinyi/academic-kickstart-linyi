@@ -36,15 +36,16 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://aclanthology.org/2021.acl-long.26.pdf"
-url_preprint: "https://arxiv.org/abs/2106.15231"
-url_code: "https://github.com/lijiazheng99/Counterfactuals-for-Sentiment-Analysis"
-url_dataset: "https://github.com/lijiazheng99/Counterfactuals-for-Sentiment-Analysis"
+
+url_pdf: "https://dl.acm.org/doi/abs/10.1145/3340531.3412879"
+#url_preprint: "https://arxiv.org/abs/2010.12512"
+url_code: "https://github.com/YangLinyi/Explainable-Financial-Text-Classification"
+url_dataset: "https://github.com/YangLinyi/Explainable-Financial-Text-Classification"
 url_poster:
 url_project:
-url_slides: "https://underline.io/lecture/25378-exploring-the-efficacy-of-automatically-generated-counterfactuals-for-sentiment-analysis"
+url_slides: 
 url_source:
-url_video:"https://underline.io/lecture/25378-exploring-the-efficacy-of-automatically-generated-counterfactuals-for-sentiment-analysis"
+url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
