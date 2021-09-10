@@ -16,14 +16,14 @@ publishDate: 2021-08-01T00:00:00+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing"
+publication: "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics"
 publication_short: "In *ACL 2021*"
 
 abstract: ""
 
 
 # Summary. An optional shortened abstract.
-summary: "While state-of-the-art NLP models have been achieving the excellent performance of a wide range of tasks in recent years. In this work, we propose an alternative by describing and evaluating an approach to automatically generating counterfactual data for data augmentation and explanation. "
+summary: "While state-of-the-art NLP models have been achieving the excellent performance of a wide range of tasks in recent years, important questions are being raised about their robustness and their underlying sensitivity to systematic biases that may exist in their training and test data."
 
 tags: []
 categories: []
