@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student of Artificial Intelligence
+role: Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.insight-centre.org/users/linyi-yang"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include NLP Problem Solving, Financial Forecasting and Multimodal.
+bio: I am broadly interested in improving generalization of neural networks in real natural language understanding, especially for financial applications.
 
 interests:
 - Natural Language Processing
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: University College Dublin
-    year: 2017-
+    year: 2017-2021
   - course: MSc in Artificial Intelligence
     institution: University College Dublin
     year: 2017
