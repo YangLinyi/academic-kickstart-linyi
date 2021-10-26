@@ -65,4 +65,6 @@ user_groups:
 - Researchers
 ---
 
-Linyi Yang is a PhD candidate of artificial intelligence at the Insight Centre, University College Dublin. His research interests include Natural Language Processing, Financial Index Forecasting, and Multimodal Learning. 
+I'm a a Postdoctoral Associate in the WestlakeNLP group, working with Yue Zhang. of artificial intelligence at the Insight Centre, University College Dublin. Previously, I graduated with a PhD from the University College Dublin, where I worked with Barry Smyth. 
+
+I am broadly interested in the Natural Language Processing in the financial domain, the problem of explainable artificail intelligence (XAI), and improving generalization of neural networks in real natural language understanding.
