@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 
 +++
-* It's my great honor to be invited to serve as an Area Chair (AC) of EMNLP-22 Conference!
+* It's my great honor to be invited to serve as an Area Chair (AC) at the EMNLP-22 Conference (core: A,CCF: B)!
 * PC Member/Reviewer: CIKM-20; COLING-20; ACL-21; SIGIR-21; CKIM-21; EMNLP-21; IEEE-Access
 * We start working on tracking the progress in the topic of FinNLP. Feel free to add any relevant items to [Project Link](https://github.com/YangLinyi/FinNLP-Progress)
 * 2021-May: One first-author long paper has been accepted by [ACL 2021](https://2021.aclweb.org/) (Main Track, 21% acceptance rate).
