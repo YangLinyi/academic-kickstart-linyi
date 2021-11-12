@@ -67,4 +67,4 @@ user_groups:
 
 I'm a Postdoctoral Associate in the [Westlake NLP group](https://twitter.com/nlpwestlake?lang=en), working with [Yue Zhang](https://frcchang.github.io/). Previously, I graduated with a PhD from the Insight Centre, University College Dublin, where I worked with [Barry Smyth](https://people.ucd.ie/barry.smyth) and Ruihai Dong. 
 
-I am broadly interested in the Natural Language Processing in the financial domain, the problem of eXplainable Artificail Intelligence (XAI), and improving generalization of neural networks for the real natural language understanding.
+I am broadly interested in the problem of eXplainable Artificail Intelligence (XAI), improving generalization of neural networks for the real natural language understanding, and their applications in the financial domain.
