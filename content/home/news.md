@@ -50,6 +50,8 @@ subtitle = ""
  css_class = ""
 
 +++
+* 2021-Dec: One first-author long paper has been accepted by [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) (Main Track, 15% acceptance rate).
+(core: A*, CCF: A)
 * It's my great honor to serve as an Area Chair (AC) at EMNLP-22!
 * PC Member/Reviewer: CIKM-20; COLING-20; ACL-21; SIGIR-21; CKIM-21; EMNLP-21; IEEE-Access
 * We start working on tracking the progress in the topic of FinNLP. Feel free to add any relevant items to [Project Link](https://github.com/YangLinyi/FinNLP-Progress)
