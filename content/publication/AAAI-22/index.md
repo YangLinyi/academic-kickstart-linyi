@@ -19,11 +19,10 @@ publication_types: ["1"]
 publication: "Proceedings of the 36th AAAI Conference on Artificial Intelligence"
 publication_short: "In *AAAI 2022*"
 
-abstract: "Financial forecasting has been an important and active area of machine learning research because of the challenges it presents and the potential rewards that even minor improvements in prediction accuracy or forecasting may entail. Traditionally, financial forecasting has heavily relied on quantitative indicators and metrics derived from structured financial statements. Earnings conference call data, including text and audio, is an important source of unstructured data that has been used for various prediction tasks using deep earning and related approaches. However, current deep learning-based methods are limited in the way that they deal with numeric data; numbers are typically treated as plain-text tokens without taking advantage of their underlying numeric structure. This paper describes a numeric-oriented hierarchical transformer model (NumHTML) to predict stock returns, and financial risk using multi-modal aligned earnings calls data by taking advantage of the different categories of numbers (monetary, temporal, percentages etc.) and their magnitude. We present the results of a comprehensive evaluation of NumHTML against several state-of-the-art baselines using a real-world publicly available dataset. The results indicate that NumHTML significantly outperforms the current state-of-the-art across a variety of evaluation metrics and that it has the potential to offer significant financial gains in a practical trading context. "
-
+abstract:
 
 # Summary. An optional shortened abstract.
-summary: "While state-of-the-art NLP models have been achieving the excellent performance of a wide range of tasks in recent years, important questions are being raised about their robustness and their underlying sensitivity to systematic biases that may exist in their training and test data."
+summary: "This paper describes a numeric-oriented hierarchical transformer model (NumHTML) to predict stock returns, and financial risk using multi-modal aligned earnings calls data by taking advantage of the different categories of numbers and their magnitude."
 
 tags: []
 categories: []
