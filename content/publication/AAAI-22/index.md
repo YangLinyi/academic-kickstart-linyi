@@ -19,10 +19,10 @@ publication_types: ["1"]
 publication: "Proceedings of the 36th AAAI Conference on Artificial Intelligence"
 publication_short: "In *AAAI 2022*"
 
-abstract:
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "This paper describes a numeric-oriented hierarchical transformer model (NumHTML) to predict stock returns, and financial risk using multi-modal aligned earnings calls data by taking advantage of the different categories of numbers and their magnitude."
+summary: "This paper describes a numeric-oriented hierarchical transformer model to predict stock returns, and financial risk using multi-modal aligned earnings calls data by taking advantage of the different categories of numbers and their magnitude."
 
 tags: []
 categories: []
