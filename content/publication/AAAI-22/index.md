@@ -4,7 +4,7 @@
 title: "NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-task Financial Forecasting"
 authors: ["Linyi Yang", "Jiazheng Li", "Ruihai Dong", "Yue Zhang", "Barry Smyth"]
 date: 2021-08-01T00:00:00+08:00
-doi: 
+# doi: 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-03-01T00:00:00+08:00
