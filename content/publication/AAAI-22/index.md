@@ -4,7 +4,7 @@
 title: "NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-task Financial Forecasting"
 authors: ["Linyi Yang", "Jiazheng Li", "Ruihai Dong", "Yue Zhang", "Barry Smyth"]
 date: 2021-08-01T00:00:00+08:00
-# doi: 
+doi: "10.1145/3366423.3380128"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-03-01T00:00:00+08:00
@@ -38,7 +38,7 @@ featured: true
 
 url_pdf: "https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf"
 # url_preprint: "https://arxiv.org/abs/2106.15231"
-# url_code: "https://github.com/YangLinyi/HTML-Hierarchical-Transformer-based-Multi-task-Learning-for-Volatility-Prediction"
+url_code: "https://github.com/YangLinyi/HTML-Hierarchical-Transformer-based-Multi-task-Learning-for-Volatility-Prediction"
 # url_dataset: 
 url_poster:
 url_project:
@@ -59,4 +59,6 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
----
+------
+
+
