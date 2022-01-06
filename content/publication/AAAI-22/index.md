@@ -22,7 +22,7 @@ publication_short: "In *AAAI 2022*"
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "This paper proposes a novel hierarchical, transformer, multi-task architecture designed to harness the text and audio data from quarterly earnings conference calls to predict future price volatility in the short and long term. This includes a comprehensive comparison to a variety of baselines, which demonstrates very significant improvements in prediction accuracy, in the range 17% - 49% compared to the current state-of-the-art. "
+summary: "This paper describes a numeric-oriented hierarchical transformer model (NumHTML) to predict stock returns, and financial risk using multi-modal aligned earnings calls data by taking advantage of the different categories of numbers (monetary, temporal, percentages etc.) and their magnitude. "
 
 tags: []
 categories: []
