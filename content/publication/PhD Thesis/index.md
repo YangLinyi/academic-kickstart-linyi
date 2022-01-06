@@ -3,11 +3,11 @@
 
 title: "Deep Neural Approach for Financial Analysis"
 authors: ["Linyi Yang"]
-date: 2021-07-01T00:00:00+08:00
+date: 2021-11-01T00:00:00+08:00
 #doi: "10.1145/3366423.3380128"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-07-01T00:00:00+08:00
+publishDate: 2021-11-01T00:00:00+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
