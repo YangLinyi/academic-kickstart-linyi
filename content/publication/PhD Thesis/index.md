@@ -22,7 +22,7 @@ publication_short: "PhD Thesis"
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "We propose a dual-level attention mechanism for the relation extraction problem"
+summary: "We demonstrate the success of deep learning methods in modeling unstructured data for financial applications, including explainable deep learning models, multi-modal multi- task learning frameworks, and counterfactual generation systems for explanations and data augmentations. "
 tags: []
 categories: []
 featured: true
