@@ -22,7 +22,7 @@ publication_short: "In *AAAI 2022*"
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "This paper describes a numeric-oriented hierarchical transformer model to predict stock returns, and financial risk using multi-modal aligned earnings calls data by taking advantage of the different categories of numbers and their magnitude."
+summary: "This paper describes a numeric-oriented hierarchical transformer model to predict stock returns, and financial risk using multi-modal aligned earnings calls data."
 
 tags: []
 categories: []
@@ -38,7 +38,7 @@ featured: true
 
 url_pdf: "https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf"
 # url_preprint: "https://arxiv.org/abs/2106.15231"
-url_code: "https://github.com/YangLinyi/HTML-Hierarchical-Transformer-based-Multi-task-Learning-for-Volatility-Prediction"
+# url_code: "https://github.com/YangLinyi/HTML-Hierarchical-Transformer-based-Multi-task-Learning-for-Volatility-Prediction"
 # url_dataset: 
 url_poster:
 url_project:
