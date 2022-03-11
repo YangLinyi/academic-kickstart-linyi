@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 
 +++
-* 2022-Mar: One co-first author long paper has been accepted by [ACL 2022] main conference (https://www.2022.aclweb.org/). This is my third CCF-A paper published at Westlake University with the great help by Yue Zhang. (core: A*, CCF: A)
+* 2022-Mar: One co-first author long paper has been accepted by [ACL 2022] (https://www.2022.aclweb.org/) main conference. This is my third CCF-A paper published at Westlake University with the great help by Yue Zhang. (core: A*, CCF: A)
 * 2021-Dec: One first-author long paper has been accepted by [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) (Main Track, 15% acceptance rate).
 (core: A*, CCF: A)
 * It's my great honor to serve as an Area Chair (AC) at EMNLP-22!
