@@ -14,7 +14,7 @@ role: Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Insight Centre, University College Dublin
+- name: Westlake University
   url: "https://www.insight-centre.org/users/linyi-yang"
 
 # Short bio (displayed in user profile at end of posts)
@@ -54,7 +54,7 @@ social:
 
 - icon: cv
   icon_pack: ai
-  link: files/linyi-cv-research.pdf
+  link: files/CV_LinyiYang_Academic.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "yanglinyiucd@gmail.com"
