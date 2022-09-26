@@ -50,21 +50,23 @@ subtitle = ""
  css_class = ""
 
 +++
-* 2022-Mar: One co-first author long paper has been accepted by [ACL 2022](https://www.2022.aclweb.org/) main conference. This is my third CCF-A paper published at Westlake University with the great help by [Yue Zhang](https://frcchang.github.io/). (core: A*, CCF: A)
-* 2021-Dec: One first-author long paper has been accepted by [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) (15% acceptance rate).
+* 2022-Sep: One paper co-operating with MSRA has been accepted to [NeurIPS 2022](https://arxiv.org/pdf/2208.07204/). The first author was my intern at Westlake University. Big congrats! (core: A*, CCF: A)
+* 2022-Aug: Two papers (one first-author paper) have been accepted to [COLING 2022](https://coling2022.org/). (core: A, CCF: B)
+* 2022-Mar: One co-first author long paper has been accepted to [ACL 2022](https://www.2022.aclweb.org/) main conference. This is my third CCF-A paper published at Westlake University with the great help by [Yue Zhang](https://frcchang.github.io/). (core: A*, CCF: A)
+* 2022-Jan: One first-author long paper has been accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) (15% acceptance rate).
 (core: A*, CCF: A)
-* It's my great honor to serve as an Area Chair (AC) at EMNLP-22!
+* 2022-Jan It's my great honor to serve as an Area Chair (AC) at EMNLP-22!
 * PC Member/Reviewer: CIKM-20; COLING-20; ACL-21; SIGIR-21; CKIM-21; EMNLP-21; IEEE-Access
 * We start working on tracking the progress in the topic of FinNLP. Feel free to add any relevant items to [Project Link](https://github.com/YangLinyi/FinNLP-Progress)
-* 2021-May: One first-author long paper has been accepted by [ACL 2021](https://2021.aclweb.org/) (21% acceptance rate).
+* 2021-May: One first-author long paper has been accepted to [ACL 2021](https://2021.aclweb.org/) (21% acceptance rate).
 (core: A*, CCF: A)
-* 2020-Oct: One first-author long paper has been accepted by [COLING 2020](https://coling2020.org/) (Top 5% submissions).
+* 2020-Oct: One first-author long paper has been accepted to [COLING 2020](https://coling2020.org/) (Top 5% submissions).
 (core: A, CCF: B)
-* 2020-Sep: One co-first author resource paper has been accepted by [CIKM 2020](https://www.cikm2020.org/accepted-papers/accepted-resource-track-papers/) (20% acceptance rate).
+* 2020-Sep: One co-first author resource paper has been accepted to [CIKM 2020](https://www.cikm2020.org/accepted-papers/accepted-resource-track-papers/) (20% acceptance rate).
 (core: A, CCF: B)
-* 2019-Dec: One first-author long paper has been accepted by [WWW 2020](https://www2020.citi.sinica.edu.tw/schedule/) (19% acceptance rate).
+* 2019-Dec: One first-author long paper has been accepted to [WWW 2020](https://www2020.citi.sinica.edu.tw/schedule/) (19% acceptance rate).
 (core: A*, CCF: A)
-* 2019-Aug: One first-author long paper has been accepted by [FinNLP Workshop@IJCAI-19](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp/) (Oral).
+* 2019-Aug: One first-author long paper has been accepted to [FinNLP Workshop@IJCAI-19](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp/) (Oral).
 * 2018-Nov: Our paper won the best paper nomitation at [CCIS 2018](http://ccis2018.csp.escience.cn/dct/page/1) (Best Paper Candiadate).
 * 2017-Dec: My first paper was published at [AICS 2017](http://aiai.ucd.ie/aics2017/index.html).
 
