@@ -22,7 +22,7 @@ bio: I am broadly interested in improving generalization of neural networks in r
 
 interests:
 - XAI, Causality, OOD Generalization.
-Awards:
+Awards
 Outstanding Postdoc Researcher (5/600+), Westlake University, 2022.
 Outstanding Self-financed Students Abroad (10,000 dollars, 50/1M, only one winner in Ireland), UCD, 2021.
 Microsoft Early-Career Rising Star Program, MSRA, 2022.
