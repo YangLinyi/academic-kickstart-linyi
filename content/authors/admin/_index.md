@@ -20,11 +20,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am broadly interested in improving generalization of neural networks in real natural language understanding, especially for financial applications.
 
-interests:
-- Natural Language Processing
-- Financial Forecasting
-- Casual Inference
-- Explainable AI (XAI)
+awards:
+- Outstanding Postdoc Researcher (5/600+), Westlake University, 2022.
+- Outstanding Self-financed Students Abroad (10,000 dollars, 50/1M, only one winner in Ireland), UCD, 2021.
+- Microsoft Early-Career Rising Star Program, MSRA, 2022.
+- Best Paper Candiadate, CCIS, 2018.
 
 education:
   courses:
