@@ -15,7 +15,7 @@ role: Postdoctoral Associate
 # Organizations/Affiliations
 organizations:
 - name: Westlake University
-  url: "https://www.insight-centre.org/users/linyi-yang"
+  url: "https://westlakenlp.netlify.app/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am broadly interested in improving generalization of neural networks in real natural language understanding, especially for financial applications.
