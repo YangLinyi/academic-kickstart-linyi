@@ -22,9 +22,10 @@ bio: I am broadly interested in improving generalization of neural networks in r
 
 interests:
 - XAI, Causality, OOD Generalization.
-- Awards
-- Outstanding Postdoc Researcher (5/600+), 2022.
-- Outstanding Self-financed Students Abroad (10,000 dollars, 50/1M, only one winner in Ireland), 2021.
+- Awards:
+- Outstanding Postdoctoral Representative (only one awardee), 2023.
+- Outstanding Postdoc Researcher, 2022.
+- Outstanding Self-financed Students Abroad, Applicable for all Non-CSC PhDs (10,000 dollars, 50 awardee, only one winner in Ireland), 2021.
 - Microsoft Early-Career Rising Star, MSRA, 2022.
 - Best Paper Candiadate, CCIS, 2018.
 
@@ -69,4 +70,4 @@ user_groups:
 
 I'm a Postdoctoral Associate in the [Westlake NLP group](https://twitter.com/nlpwestlake?lang=en), working with [Yue Zhang](https://frcchang.github.io/). Previously, I graduated with a PhD from the Insight Centre, University College Dublin, where I worked with [Barry Smyth](https://people.ucd.ie/barry.smyth) and Ruihai Dong. 
 
-I am broadly interested in the problem of Data-centric AI and Trustworthy AI, improving the transparency of neural networks for the natural language understanding, and their applications in the high-stake domains. To achieve this goal, I am now working on causality guided methods for Natural Language Processing from the data perspective. Feel free to contact me via email if you have any questions about our research work.
+I am broadly interested in the problem of Data-centric AI and Trustworthy AI, improving the transparency of neural networks for the natural language understanding, and their applications in high-stake domains. To achieve this goal, I am now working on causality guided methods for Natural Language Processing from the data perspective. Feel free to contact me via email if you have any questions about our research work.
