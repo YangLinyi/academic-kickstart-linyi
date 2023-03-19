@@ -65,7 +65,7 @@ email: "yanglinyiucd@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Principal Investigators
 ---
 
 I'm a Postdoctoral Associate in the [Westlake NLP group](https://twitter.com/nlpwestlake?lang=en), working with [Yue Zhang](https://frcchang.github.io/). Previously, I graduated with a PhD from the Insight Centre, University College Dublin, where I worked with [Barry Smyth](https://people.ucd.ie/barry.smyth) and Ruihai Dong. 
