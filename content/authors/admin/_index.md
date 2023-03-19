@@ -21,8 +21,8 @@ organizations:
 bio: I am broadly interested in improving generalization of neural networks in real natural language understanding, especially for financial applications.
 
 interests:
-- XAI, Causality, OOD Generalization.
-- Awards:
+- Data-centric AI, Causality.
+- (Awards)
 - Outstanding Postdoctoral Representative (only one awardee), 2023.
 - Outstanding Postdoc Researcher, 2022.
 - Outstanding Self-financed Students Abroad, Applicable for all Non-CSC PhDs (10,000 dollars, 50 awardee, only one winner in Ireland), 2021.
