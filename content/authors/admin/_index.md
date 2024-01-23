@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Associate
+role: Research Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://westlakenlp.netlify.app/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am broadly interested in improving generalization of neural networks in real natural language understanding, especially for financial applications.
+bio: I am broadly interested in improving the generalization of neural networks in real natural language understanding, especially for financial applications.
 
 interests:
 - Data-centric AI, Causality.
@@ -27,7 +27,7 @@ interests:
 - Outstanding Postdoc Researcher, 2022.
 - Microsoft Early-Career Rising Star, MSRA, 2022.
 - Outstanding Self-financed Students Abroad, Applicable for Non-CSC PhDs (only one winner in Ireland), 2021.
-- Best Paper Candiadate, CCIS, 2018.
+- Best Paper Candidate, CCIS, 2018.
 
 education:
   courses:
