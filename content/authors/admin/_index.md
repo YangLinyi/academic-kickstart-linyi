@@ -68,6 +68,6 @@ user_groups:
 - Principal Investigators
 ---
 
-I'm a Postdoctoral Associate in the [Westlake NLP group](https://twitter.com/nlpwestlake?lang=en), working with [Yue Zhang](https://frcchang.github.io/). Previously, I graduated with a PhD from the Insight Centre, University College Dublin, where I worked with [Barry Smyth](https://people.ucd.ie/barry.smyth) and Ruihai Dong. 
+I'm a Research Assistant Professor in the [Westlake NLP group](https://twitter.com/nlpwestlake?lang=en), working with [Yue Zhang](https://frcchang.github.io/). Previously, I graduated with a PhD from the Insight Centre, University College Dublin, where I worked with [Barry Smyth](https://people.ucd.ie/barry.smyth) and Ruihai Dong. 
 
-I am broadly interested in the problem of Data-centric AI and Trustworthy AI, improving the transparency and generalization of neural networks for natural language understanding. To achieve this goal, I am now working on causality guided methods for NLP and its applications in high-stake domains. Feel free to contact me via [email](yanglinyi@westlake.edu.cn) if you have any questions about our research work.
+I am broadly interested in the problem of Data-centric AI and Trustworthy AI, improving the transparency and generalization of neural networks for natural language understanding. To achieve this goal, I am now working on causality-guided methods for NLP and its applications in high-stake domains. Please feel free to reach out to me through [email](yanglinyi@westlake.edu.cn) if you have any questions about our research work.
