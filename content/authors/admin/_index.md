@@ -57,7 +57,7 @@ social:
 
 - icon: cv
   icon_pack: ai
-  link: files/CV_Nominee_LinyiYang.pdf
+  link: files/CV_LinyiYang_ICLR.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "yanglinyiucd@gmail.com"
