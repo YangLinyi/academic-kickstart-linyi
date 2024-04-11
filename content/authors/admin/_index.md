@@ -18,7 +18,8 @@ organizations:
   url: "https://westlakenlp.netlify.app/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am broadly interested in improving the generalization of neural networks in real natural language understanding, especially for financial applications.
+bio: I am broadly interested in improving the generalization of neural networks in real natural language understanding, especially for financial applications. 
+Please check the latest information on my new personal website: https://yanglinyi.github.io/
 
 interests:
 - Data-centric AI, Causality.
@@ -34,12 +35,6 @@ education:
   - course: PhD in Artificial Intelligence
     institution: University College Dublin
     year: 2017-2021
-  - course: MSc in Artificial Intelligence
-    institution: University College Dublin
-    year: 2017
-  - course: BSc in Computer Science
-    institution: Harbin Engineering University
-    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
