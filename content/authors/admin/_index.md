@@ -19,7 +19,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am broadly interested in improving the generalization of neural networks in real natural language understanding, especially for financial applications. 
-Please check the latest information on my new personal website: https://yanglinyi.github.io/
 
 interests:
 - Data-centric AI, Causality.
@@ -29,12 +28,6 @@ interests:
 - Microsoft Early-Career Rising Star, MSRA, 2022.
 - Outstanding Self-financed Students Abroad, Applicable for Non-CSC PhDs (only one winner in Ireland), 2021.
 - Best Paper Candidate, CCIS, 2018.
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: University College Dublin
-    year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,6 +56,6 @@ user_groups:
 - Principal Investigators
 ---
 
-I'm a Research Assistant Professor in the [Westlake NLP group](https://twitter.com/nlpwestlake?lang=en), working with [Yue Zhang](https://frcchang.github.io/). Previously, I graduated with a PhD from the Insight Centre, University College Dublin, where I worked with [Barry Smyth](https://people.ucd.ie/barry.smyth) and Ruihai Dong. 
+I'm a Research Assistant Professor in the [Westlake NLP group](https://twitter.com/nlpwestlake?lang=en), working with [Yue Zhang](https://frcchang.github.io/). Previously, I graduated with a PhD from the Insight Centre, University College Dublin, where I worked with [Barry Smyth](https://people.ucd.ie/barry.smyth) and Ruihai Dong. Please check the latest information on my new personal website: https://yanglinyi.github.io/ 
 
 I am broadly interested in the problem of Data-centric AI and Trustworthy AI, improving the transparency and generalization of neural networks for natural language understanding. To achieve this goal, I am now working on causality-guided methods for NLP and its applications in high-stake domains. Please feel free to reach out to me through [email](yanglinyi@westlake.edu.cn) if you have any questions about our research work.
